@@ -184,7 +184,7 @@ Potential future work includes:
 
 ## Author
 
-Name: Your Name
+Name: Bisona Honora
 
 Field:
 Health Data Science | Machine Learning | Epidemiology | Predictive Analytics
